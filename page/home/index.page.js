@@ -19,7 +19,8 @@ extendLocale({
       "fr-FR": "Scripts", 
       "pt-PT": "Scripts", 
       "zh-CN": "脚本", 
-      "ru-RU": "Сценарии" 
+      "ru-RU": "Сценарии"
+  },
   "sensors": {
       "en-US": "Sensors",
       "es-ES": "Sensores",
